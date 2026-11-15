@@ -1,0 +1,23 @@
+{
+ "name": "Verdensutforskeren",
+ "short_name": "Utforsker",
+ "lang": "nb",
+ "start_url": "./",
+ "scope": "./",
+ "display": "standalone",
+ "background_color": "#f7edd8",
+ "theme_color": "#f7edd8",
+ "icons": [
+  {
+   "src": "ikon-180.png",
+   "sizes": "180x180",
+   "type": "image/png"
+  },
+  {
+   "src": "ikon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any maskable"
+  }
+ ]
+}
